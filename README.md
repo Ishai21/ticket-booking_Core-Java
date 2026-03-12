@@ -1,4 +1,4 @@
-# TrainBooking - Java Core Concepts
+# TicketBooking - Java Core Concepts
 
 Project overview
 
