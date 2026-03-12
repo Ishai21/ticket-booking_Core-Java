@@ -1,6 +1,4 @@
-IRCTC - Java Core Concepts
-
-Suggested repository name: irctc-core-java
+TrainBooking - Java Core Concepts
 
 Project overview
 
