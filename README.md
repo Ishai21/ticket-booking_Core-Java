@@ -1,4 +1,4 @@
-TrainBooking - Java Core Concepts
+# TrainBooking - Java Core Concepts
 
 Project overview
 
@@ -92,7 +92,7 @@ This repository is intended as a personal showcase of core Java skills. If you w
 
 Contact
 
-- For questions about the code, open an issue or contact the project owner.
+- For questions about the code, open an issue or contact the project owner(irfhan.shaikk@gmail.com).
 
 Requirements coverage
 
